@@ -1,6 +1,7 @@
 {
-  "name": "bun-react-template",
+  "name": "onchain-chat",
   "version": "0.1.0",
+  "description": "A decentralized, event-based chat application running on the blockchain.",
   "private": true,
   "type": "module",
   "scripts": {
