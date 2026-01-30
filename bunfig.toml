@@ -1,0 +1,6 @@
+[serve.static]
+env = "BUN_PUBLIC_*"
+
+[serve]
+# Preload optional dependencies to avoid dynamic import issues
+preload = ["porto", "porto/internal"]
